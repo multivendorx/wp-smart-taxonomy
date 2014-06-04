@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Smart Taxonomy\n"
+"POT-Creation-Date: 2014-03-18 15:32+0530\n"
+"PO-Revision-Date: 2014-03-18 15:33+0530\n"
+"Last-Translator: Dualcube <admin@dualcube.com>\n"
+"Language-Team: Dualcube <admin@dualcube.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\smart\\wp-content\\plugins\\wp-smart-"
+"taxonomy\n"
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings-dc_WP_ST_general.php:30
+msgid "Enable Smart Category"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings-dc_WP_ST_general.php:31
+msgid "Append with existing categories"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings-dc_WP_ST_general.php:31
+msgid "If unchecked will replace existing categories"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings-dc_WP_ST_general.php:32
+msgid "Generate Smart Category from Post Title"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings-dc_WP_ST_general.php:33
+msgid "Generate Smart Category from Post Tags"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings-dc_WP_ST_general.php:69
+msgid "Settings updated"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings.php:27
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings.php:28
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/admin/class-dc-WP-Smart-Taxonomy-settings.php:41
+msgid "WP Smart Taxonomy"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/classes/class-dc-WP-Smart-Taxonomy-admin.php:86
+msgid "Powered by"
+msgstr ""
+
+#: C:\wamp\www\smart\wp-content\plugins\wp-smart-taxonomy/classes/class-dc-WP-Smart-Taxonomy-admin.php:86
+msgid "Dualcube"
+msgstr ""
+
+#~ msgid "ID Number"
+#~ msgstr "Identification"
